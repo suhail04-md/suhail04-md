@@ -1,4 +1,4 @@
-<h1 align="center">📊 Md Suhail</h1>
+<h1 align="center"> Md Suhail</h1>
 
 <h4 align="center">📈 Data Analyst | Business Analyst | Turning Data into Business Decisions</h4>
 
