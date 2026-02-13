@@ -1,18 +1,120 @@
-# 💫 About Me:
-Data & Business Analyst | Python • SQL • Power BI • Excel<br>Turning data into business insights. Passionate about analytics, visualization, and solving real-world business problems through data-driven decisions.<br><br>
+<h1 align="center">📊 Md Suhail</h1>
 
+<h4 align="center">📈 Data Analyst | Business Analyst | Turning Data into Business Decisions</h4>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Md Suhail) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/xShadow_10) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:Suhail04md@gmail.com) 
+<p align="center">
+  Bachelor of Business Administration Graduate from 
+  <b>Amjad Ali Khan College of Business Administration, Hyderabad</b> <br>
+  Passionate about transforming raw data into meaningful insights, dashboards, 
+  and decision-support systems.
+</p>
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat-square&logo=powerbi&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat-square&logo=mysql&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat-square&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat-square&logo=plotly&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=suhail04-md&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=suhail04-md&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=suhail04-md&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p align="center">
+  📍 Hyderabad, India &nbsp; | &nbsp; 📧 Suhail04md@gmail.com
+</p>
 
----
-[![](https://visitcount.itsvg.in/api?id=suhail04-md&icon=0&color=0)](https://visitcount.itsvg.in)
+<hr>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h3 align="center">🧠 About Me</h3>
+
+<p align="center">
+I am a Business Administration graduate with a strong interest in Data Analytics and Business Intelligence.  
+I specialize in data cleaning, analysis, visualization, and reporting automation.  
+
+My goal is to help organizations make smarter decisions using structured data, 
+clear dashboards, and actionable insights.
+</p>
+
+<hr>
+
+<h3 align="center">🛠 Core Skills</h3>
+
+<p align="center">
+Python • NumPy • Pandas • SQL • Power BI • Data Cleaning • EDA • Dashboard Development • KPI Reporting
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,git,github" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="38"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="38"/>
+</p>
+
+<hr>
+
+<h3 align="center">📊 What I Do</h3>
+
+<p align="center">
+✔ Clean and preprocess structured datasets <br>
+✔ Perform Exploratory Data Analysis (EDA) <br>
+✔ Build interactive dashboards using Power BI <br>
+✔ Write optimized SQL queries for reporting <br>
+✔ Create automated reporting workflows using Python
+</p>
+
+<hr>
+
+<h3 align="center">🚀 Featured Project</h3>
+
+<table align="center" width="100%">
+<tr>
+
+<td width="100%" valign="top" align="center">
+
+<h4>🔐 Login & Registration System (Python)</h4>
+
+<p>
+Built a structured login and registration system using Python.  
+Implemented user authentication logic, data validation, and file-based storage system.
+</p>
+
+<p>
+<a href="https://github.com/suhail04-md/Login-registration-python.git">
+View Project Repository
+</a>
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Python-Project-blue?style=flat"/>
+<img src="https://img.shields.io/badge/Authentication-System-green?style=flat"/>
+</p>
+
+</td>
+
+</tr>
+</table>
+
+<hr>
+
+<h3 align="center">📚 Currently Learning</h3>
+
+<p align="center">
+Advanced SQL • Business Analytics Case Studies • Power BI Advanced DAX • Data Storytelling
+</p>
+
+<hr>
+
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=suhail04-md&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <br><br>
+  <img src="https://streak-stats.demolab.com?user=suhail04-md&theme=tokyonight&hide_border=true"/>
+</p>
+
+<hr>
+
+<h3 align="center">🤝 Connect With Me</h3>
+
+<p align="center">
+  <a href="mailto:Suhail04md@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+<hr>
+
+<h4 align="center">💡 My Approach</h4>
+
+<p align="center">
+Clean Data → Clear Insights → Confident Business Decisions
+</p>
